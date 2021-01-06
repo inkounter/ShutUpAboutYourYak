@@ -1,0 +1,7 @@
+## Interface: 90200
+## Author: Inkounter
+## Title: Shut Up About Your Yak
+## Version: 1.0
+## Notes: Hides dialog text from the vendors on the transmog mount from the chat frame.
+
+main.lua
