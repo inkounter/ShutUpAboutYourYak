@@ -1,4 +1,4 @@
-## Interface: 100100
+## Interface: 120000
 ## Author: Inkounter
 ## Title: Shut Up About Your Yak
 ## Version: 1.0
